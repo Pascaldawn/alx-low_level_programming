@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
+ * main - prints exactly and that piece of art is useful" - Dora Korpar...
  * return: always 1
  */
 int main(void)
